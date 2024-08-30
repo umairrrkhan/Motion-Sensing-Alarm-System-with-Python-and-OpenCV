@@ -48,10 +48,6 @@ python main.py
 
 ![image](https://www.dropbox.com/s/2yr78pfxu3cwx5f/Screenshot%20%2898%29.png?raw=1)
 
-## Credits
-
-- This project is created by [Your Name] and leverages the following open source libraries:
-
 - OpenCV (https://opencv.org/) - For computer vision and video processing
 - imutils (https://github.com/jrosebr1/imutils) - For image resizing
 - winsound (https://docs.python.org/3/library/winsound.html) - For playing alarm tones
